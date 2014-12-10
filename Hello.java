@@ -1,7 +1,7 @@
- 
+//屏幕上输出你好！！ 
 public class Hello{
   public static void main(String [] args){
     System.out.println("hello");
-    System.out.println("你好！");
+    System.out.println("你好?");
   }
 }
